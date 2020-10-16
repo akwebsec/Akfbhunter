@@ -25,8 +25,8 @@ $ git clone https://github.com/akwebsec/Akfbhunter.git
 $ cd Akfbhunter/ 
 $ pip2 install requests
 $ pip2 install mechanize
-$ chmod +x ./aksmsbluster.py
-$ python2 ./aksmsbluster.py
+$ chmod +x ./akfbhunter.py
+$ python2 ./akfbhunter.py
 ```
 --------------------------------------------------------
 
